@@ -1,3 +1,4 @@
+#Condições aninhadas, if, elif, else
 nome = str(input('Qual é o seu nome?'))
 if nome == "Henrique":
     print('Que nome bonito!')

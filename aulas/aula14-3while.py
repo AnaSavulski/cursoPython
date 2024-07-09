@@ -1,0 +1,1 @@
+# enquanto não conseguir determinanda codição, continue o laço.
